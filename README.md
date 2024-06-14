@@ -1,7 +1,7 @@
 # ESR GAN (Enhanced Super-Rosolution Generative Adversarial Network
 
 ## What is it ? 
-  Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN) is a state-of-the-art neural network architecture designed to produce high-quality, high-resolution images from low-resolution inputs.
+#^ Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN) is a state-of-the-art neural network architecture designed to produce high-quality, high-resolution images from low-resolution inputs.
   It extends upon the original Super-Resolution Generative Adversarial Network (SRGAN) by introducing several key improvements. \
     - Super-resolution is the process of enhancing the resolution of an image, increasing its quality and details. It has applications in various fields, including medical imaging, satellite imagery, and more. \
     * GANs consist of two networks, a generator and a discriminator, that are trained simultaneously. The generator aims to create realistic images, while the discriminator attempts to distinguish between real images and those produced by the generator.\
